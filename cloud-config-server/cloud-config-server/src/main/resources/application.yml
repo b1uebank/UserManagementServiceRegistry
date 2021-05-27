@@ -8,5 +8,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/b1uebank/config-server
+          uri: https://github.com/b1uebank/UserManagementServiceRegistry
           clone-on-start: true
